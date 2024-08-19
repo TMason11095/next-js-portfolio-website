@@ -1,0 +1,193 @@
+[
+    {
+        "id": "cSharp",
+        "name": "C#",
+        "order": 10,
+        "groupId": "language"
+    },
+    {
+        "id": "js",
+        "name": "JS",
+        "order": 20,
+        "groupId": "language"
+    },
+    {
+        "id": "tSql",
+        "name": "T-SQL",
+        "order": 30,
+        "groupId": "language"
+    },
+    {
+        "id": "css",
+        "name": "CSS",
+        "order": 40,
+        "groupId": "language"
+    },
+    {
+        "id": "html",
+        "name": "HTML",
+        "order": 50,
+        "groupId": "language"
+    },
+    {
+        "id": "powerBuilder",
+        "name": "PowerBuilder",
+        "order": 60,
+        "groupId": "language"
+    },
+    {
+        "id": "elixir",
+        "name": "Elixir",
+        "order": 70,
+        "groupId": "language"
+    },
+
+    {
+        "id": "dotNet",
+        "name": ".NET",
+        "order": 10,
+        "groupId": "cSharpFramework"
+    },
+    {
+        "id": "linq",
+        "name": "LINQ",
+        "order": 20,
+        "groupId": "cSharpFramework"
+    },
+    {
+        "id": "aspDotNet",
+        "name": "ASP.NET",
+        "order": 30,
+        "groupId": "cSharpFramework"
+    },
+    {
+        "id": "ef",
+        "name": "EF",
+        "order": 40,
+        "groupId": "cSharpFramework"
+    },
+    {
+        "id": "xUnit",
+        "name": "xUnit",
+        "order": 50,
+        "groupId": "cSharpFramework"
+    },
+
+    {
+        "id": "react",
+        "name": "React",
+        "order": 10,
+        "groupId": "jsFramework"
+    },
+    {
+        "id": "nextJs",
+        "name": "Next.js",
+        "order": 20,
+        "groupId": "jsFramework"
+    },
+    {
+        "id": "puppeteer",
+        "name": "Puppeteer",
+        "order": 30,
+        "groupId": "jsFramework"
+    },
+    {
+        "id": "playwright",
+        "name": "Playwright",
+        "order": 40,
+        "groupId": "jsFramework"
+    },
+    {
+        "id": "jQuery",
+        "name": "jQuery",
+        "order": 50,
+        "groupId": "jsFramework"
+    },
+    {
+        "id": "jest",
+        "name": "Jest",
+        "order": 60,
+        "groupId": "jsFramework"
+    },
+
+    {
+        "id": "oop",
+        "name": "OOP",
+        "order": 10,
+        "groupId": "pattern"
+    },
+    {
+        "id": "rest",
+        "name": "REST API",
+        "order": 20,
+        "groupId": "pattern"
+    },
+    {
+        "id": "mvc",
+        "name": "MVC",
+        "order": 30,
+        "groupId": "pattern"
+    },
+    {
+        "id": "tdd",
+        "name": "TDD",
+        "order": 40,
+        "groupId": "pattern"
+    },
+    {
+        "id": "solid",
+        "name": "SOLID",
+        "order": 50,
+        "groupId": "pattern"
+    },
+
+    {
+        "id": "aws",
+        "name": "AWS",
+        "order": 10,
+        "groupId": "tool"
+    },
+    {
+        "id": "azure",
+        "name": "Azure",
+        "order": 20,
+        "groupId": "tool"
+    },
+    {
+        "id": "vsCode",
+        "name": "VS Code",
+        "order": 30,
+        "groupId": "tool"
+    },
+    {
+        "id": "vs",
+        "name": "VS",
+        "order": 40,
+        "groupId": "tool"
+    },
+    {
+        "id": "sqlServer",
+        "name": "MS SQL Server",
+        "order": 50,
+        "groupId": "tool"
+    },
+    {
+        "id": "gitHub",
+        "name": "GitHub",
+        "order": 60,
+        "groupId": "tool"
+    },
+    {
+        "id": "jira",
+        "name": "Jira",
+        "order": 70,
+        "groupId": "tool"
+    },
+
+    {
+        "id": "japanese",
+        "name": "Intermediate Japanese",
+        "order": 10,
+        "groupId": "foreign"
+    }
+]

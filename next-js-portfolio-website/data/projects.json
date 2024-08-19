@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "title": "Flexbox Landing Page Practice",
+        "startDate": "2023-09",
+        "endDate": "2023-09",
+        "description": "Landing page website to practice coding different types of layouts and designs.",
+        "skillIds": [
+            "css",
+            "html"
+        ],
+        "image": "flexbox-website-screenshot-16-9.png",
+        "imageAltText": "Screenshot of Flexbox landing page website.",
+        "url": "https://tmason11095.github.io/TheOdinProject/flexbox-website/index.html",
+        "gitHub": "https://github.com/TMason11095/TheOdinProject/tree/main/flexbox-website"
+    },
+    {
+        "id": 2,
+        "title": "Portfolio Website (OLD)",
+        "startDate": "2023-09",
+        "endDate": "2023-11",
+        "description": "Old portfolio website to display web projects that I’ve built for The Odin Project bootcamp.",
+        "skillIds": [
+            "js",
+            "css",
+            "html",
+            "jQuery"
+        ],
+        "image": "old-portfolio-website-screenshot-16-9.png",
+        "imageAltText": "Screenshot of old portfolio website.",
+        "url": "https://tmason11095.github.io/TheOdinProject/project-viewer/index.html",
+        "gitHub": "https://github.com/TMason11095/TheOdinProject/tree/main/project-viewer"
+    },
+    {
+        "id": 3,
+        "title": "Etch-A-Sketch",
+        "startDate": "2023-10",
+        "endDate": "2023-11",
+        "description": "Website that lets you draw on a user defined canvas.",
+        "skillIds": [
+            "js",
+            "css",
+            "html",
+            "jQuery"
+        ],
+        "image": "etch-a-scetch-screenshot-16-9-small.png",
+        "imageAltText": "Screenshot of Etch-A-Sketch website.",
+        "url": "https://tmason11095.github.io/TheOdinProject/etch-a-sketch/index.html",
+        "gitHub": "https://github.com/TMason11095/TheOdinProject/tree/main/etch-a-sketch"
+    },
+    {
+        "id": 4,
+        "title": "Rock Paper Scissors",
+        "startDate": "2023-09",
+        "endDate": "2023-10",
+        "description": "Website to play rock paper scissors against a computer.",
+        "skillIds": [
+            "js",
+            "css",
+            "html"
+        ],
+        "image": "rock-paper-scissors-screenshot-16-9-small.png",
+        "imageAltText": "Screenshot of Rock Paper Scissors website.",
+        "url": "https://tmason11095.github.io/TheOdinProject/js-fundamentals/rock-paper-scissors/index.html",
+        "gitHub": "https://github.com/TMason11095/TheOdinProject/tree/main/js-fundamentals/rock-paper-scissors"
+    },
+    {
+        "id": 5,
+        "title": "Calculator",
+        "startDate": "2023-11",
+        "endDate": "2023-11",
+        "description": "Calculator website.",
+        "skillIds": [
+            "js",
+            "css",
+            "html",
+            "jQuery"
+        ],
+        "image": "calculator-screenshot-16-9-small.png",
+        "imageAltText": "Screenshot of Calculator website.",
+        "url": "https://tmason11095.github.io/TheOdinProject/calculator/index.html",
+        "gitHub": "https://github.com/TMason11095/TheOdinProject/tree/main/calculator"
+    },
+    {
+        "id": 6,
+        "title": "Portfolio Website",
+        "startDate": "2024-08",
+        "endDate": null,
+        "description": "This portfolio website.",
+        "skillIds": [
+            "js",
+            "css",
+            "html",
+            "react",
+            "nextJs"
+        ],
+        "image": "next-js-portfolio-website-screenshot-16-9.png",
+        "imageAltText": "Screenshot of portfolio website.",
+        "url": "http://localhost:3000/",
+        "gitHub": "https://github.com/TMason11095/next-js-portfolio-website"
+    }
+]
