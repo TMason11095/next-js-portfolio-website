@@ -1,0 +1,37 @@
+[
+    {
+        "id": "language",
+        "text": "Programming Languages",
+        "cssTagClassName": "language-border-color",
+        "order": 1
+    },
+    {
+        "id": "cSharpFramework",
+        "text": "C# Frameworks",
+        "cssTagClassName": "library-border-color",
+        "order": 2
+    },
+    {
+        "id": "jsFramework",
+        "text": "JS Frameworks",
+        "cssTagClassName": "library-border-color",
+        "order": 3
+    },
+    {
+        "id": "pattern",
+        "text": "Architectural Patterns",
+        "cssTagClassName": "pattern-border-color",
+        "order": 4
+    },
+    {
+        "id": "tool",
+        "text": "Tools & Technologies",
+        "cssTagClassName": "tool-border-color",
+        "order": 5
+    },
+    {
+        "id": "foreign",
+        "text": "Foreign Languages",
+        "order": 6
+    }
+]
